@@ -153,5 +153,3 @@ M.Sc Mathematics | Data Science | Machine Learning
 ⭐ If you like this project, please **give it a star** on GitHub!
 
 ```
-
-[1]: https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset?utm_source=chatgpt.com "Potato Disease Dataset"
